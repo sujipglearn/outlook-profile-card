@@ -1,0 +1,11 @@
+{
+  "name": "@sujipglearn/outlook-profile-card",
+  "version": "1.0.0",
+  "description": "outlook profile card",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
